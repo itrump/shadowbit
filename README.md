@@ -10,6 +10,7 @@ shadowbit 教程和免费线路
   - 在app store 上搜索安装 [shadowbit](https://itunes.apple.com/us/app/shadowbit/id1236116150?l=zh&ls=1&mt=8)
   - 安装后打开shadowbit，界面如下
   ![shadowbit](./img/shadowbit_ios_start.png){:height="220px" width="124px"}.
+  <img src="./img/shadowbit_ios_start.png" height="220" width="124" />
 - 添加线路
 
 # 更多免费线路
