@@ -42,6 +42,10 @@ shadowbit 教程和免费线路
 - [telegram](https://t.me/joinchat/Git7-Q-mO98cqCAz406eSg)
 - [github issues](https://github.com/itrump/shadowbit/issues)
 
+# 已知问题
+- 在部分网络下不能代理 
+  - 在长城宽带wifi下无法上外网
+
 # TODO
 - [ ] add multi language tutorials
 - [ ] add multi country lines
