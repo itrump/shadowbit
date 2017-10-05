@@ -1,6 +1,6 @@
 # Choose language
-- [English](./en_index.md "English tutorials")
-- [简体中文](./cn_index.md "中文版")
+- [English](./en/en_index.md "English tutorials")
+- [简体中文](./cn/cn_index.md "中文版")
 
 # shadowbit
 shadowbit tutorials and accounts
