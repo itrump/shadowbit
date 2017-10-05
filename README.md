@@ -11,6 +11,13 @@ shadowbit 教程和免费线路
   - 安装后打开shadowbit，界面如下
   <img src="./img/shadowbit_ios_start.png" height="440" width="250" />
 - 添加线路
+  - 点击主界面右上角的"+"按钮，出现3个选项：
+    - Official Site，跳转到官网
+    - Scan QR img，扫描二维码配置
+    - Manually Add，手动添加配置
+  - 选择“Manually Add”，跳到内置线路界面，如下：
+  <img src="./img/shadowbit_ios_default_line.png" height="440" width="250" />
+  - 点击右上角的“Save”，跳转到主界面，如下：
 
 # 更多免费线路
 
