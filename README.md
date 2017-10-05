@@ -17,6 +17,7 @@ shadowbit 教程和免费线路
     - Manually Add，手动添加配置
   - 选择“Manually Add”，跳到内置线路界面，如下：
   <img src="./img/shadowbit_ios_default_line.png" height="440" width="250" />
+
   - 点击右上角的“Save”，跳转到主界面，如下：
 
 # 更多免费线路
