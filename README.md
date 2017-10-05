@@ -18,6 +18,8 @@ shadowbit 教程和免费线路
   - 选择“Manually Add”，跳到内置线路界面，如下：
     - <img src="./img/shadowbit_ios_default_line.png" height="440" width="250" />
 
+    > 界面会弹出是否允许添加vpn配置，选择“允许 Allow” 并指纹确认或输入密码即可
+
   - 点击右上角的“Save”，跳转到主界面，如下：
     - <img src="./img/shadowbit-main-ui.jpg" height="440" width="250" />
 
@@ -43,8 +45,10 @@ shadowbit 教程和免费线路
 - [github issues](https://github.com/itrump/shadowbit/issues)
 
 # 已知问题
-- 在部分网络下不能代理 
+- 在部分网络下不能代理流量
   - 在长城宽带wifi下无法上外网
+- 切换网络时需要重启
+  - 在wifi/3G/4G等网络间切换时，可能会引起故障，关掉后再开启能即解决。
 
 # TODO
 - [ ] add multi language tutorials
