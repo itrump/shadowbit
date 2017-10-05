@@ -1,6 +1,6 @@
 # Choose language
-- [English](./en/READEME.md "English tutorials")
-- [简体中文](./cn/READEME.md "中文版")
+- [English](./en/README.md "English tutorials")
+- [简体中文](./cn/README.md "中文版")
 
 # shadowbit
 shadowbit tutorials and accounts
