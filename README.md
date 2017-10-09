@@ -23,7 +23,7 @@ shadowbit 教程和免费线路
   - 点击右上角的“Save”，跳转到主界面，如下：
     - <img src="./img/shadowbit-main-ui.jpg" height="440" width="250" />
 
-  - 选择添加的线路，开启代理。如下图，勾选线路左边空白处，开启线路上方开关，屏蔽上方出现vpn状态即表示成功。
+  - 选择添加的线路，开启代理。如下图，勾选线路左边空白处，开启线路上方开关，屏幕上方出现vpn状态即表示成功。
     - <img src="./img/shadowbit-main-ui-start.jpg" height="440" width="250" />
 
 - 测试
