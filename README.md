@@ -41,6 +41,7 @@ shadowbit 教程和免费线路
 
 # 问题反馈
 若在使用过程中碰到问题，欢迎通过以下方式向我们反馈
+> 注：telegram链接需要开启代理才能访问！
 - [telegram](https://t.me/joinchat/Git7-Q-mO98cqCAz406eSg)
 - [github issues](https://github.com/itrump/shadowbit/issues)
 
