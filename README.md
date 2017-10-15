@@ -35,7 +35,7 @@ shadowbit 教程和免费线路
 
 # 更多免费线路
 ### 正在搭建中，敬请期待......
-- [日本线路](./cn/japan_ss_line.md)
+- [日本线路](./cn/japan_shadowbit_line.md)
 - 新加坡线路
 - 国内线路（供访问B站等）
 
